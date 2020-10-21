@@ -54,24 +54,18 @@ d+=2;
 	if(z %2==0) {
 		
 		System.out.print(z+""); }
+	
+	}
+	}
+	}
+}
 
 ///
 	
 
-{
-int e=99;
-while(e> 0); {
-
-System.out.println(e+"");
 
 
 
-}
-}
-	}
-	
-	}
-	}
 	
 	
 	
