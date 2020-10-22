@@ -9,10 +9,10 @@ public class HomeWork31Nested {
 
 		Scanner scan= new Scanner(System.in);
 		System.out.println("Is it sunny outside?");
+		boolean	isSunny=scan.nextBoolean();
 		
 		
-		boolean isSunny=true;
-		
+	
 		
 		
 		if (isSunny) {
