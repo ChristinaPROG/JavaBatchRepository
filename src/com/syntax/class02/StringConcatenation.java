@@ -38,7 +38,7 @@ System.out.println(date + ""  + month);
 		String anotherState="DC ";
 		System.out.println(state);
 		System.out.println( anotherState );
-		String
+
 	}
 
 }

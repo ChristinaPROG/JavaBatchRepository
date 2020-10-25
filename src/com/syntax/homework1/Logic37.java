@@ -13,7 +13,7 @@ public class Logic37 {
 	boolean thirsty1 = true;
 	boolean sleepy = false;
 	System.out.println("sleepy?");
-	String 0 = scan.next();
+	thirsty  = scan.next();
 	System.out.println("Looks like you need to drink ");	
 		
 		

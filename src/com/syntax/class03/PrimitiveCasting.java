@@ -16,7 +16,7 @@ System.out.println(i);//9
 byte b=(byte)130;
 System.out.println(b);//-126
 
-i can
+
 
 
  

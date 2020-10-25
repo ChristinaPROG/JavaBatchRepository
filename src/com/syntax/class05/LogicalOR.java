@@ -11,6 +11,7 @@ if (day.equals("Saturday") && day.equals("Sunday")) {
 }
 
 
+
 System.out.println("The End");	
 	
 System.out.println("-------------------------more examples --------------2");	

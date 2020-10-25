@@ -9,23 +9,25 @@ public class HomeWork32 {
 		
 
 		Scanner you=new Scanner(System.in);
-	    System.out.println(“Please enter your gender: M or F”);
+	    System.out.println("Please enter your gender: M or F");
 	    
 	    String gender=you.nextLine();
-	    System.out.println(“Please enter your age”);
+	    System.out.println("Please enter your age");
 	    int age=you.nextInt();
-	   age if(age>25){
-	      if(gender.equals(“F”)) {
-	        System.out.println(“Woman”);
+	  
+	    
+	if(age>25){
+	      if(gender.equals("F")) {
+	        System.out.println("Woman");
 	      }else {
-	        System.out.println(“Man”);
+	        System.out.println("Man");
 	      }
 	    }if (age<25){
-	      if(gender.equals(“F”)){
-	        System.out.println(“Girl”);
+	      if(gender.equals("F")){
+	        System.out.println("Girl");
 	      }else {
-	        System.out.println(“Boy”);
+	        System.out.println("Boy");
 	      }
 	    }
-
-	
+	}
+	}
