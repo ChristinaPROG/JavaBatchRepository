@@ -4,14 +4,18 @@ public class ForVsEnhanced {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-int[] num= {10,20,30,1};
+		int myValue = 10000;
 
-for (int i=num.length-1; i>=0; i--) {  // num.length=4
-	System.out.println(num[i]);
-	
-}
+	    int myMinIntValue = Integer.MIN_VALUE;
+	    int myMaxIntValue= Integer.MAX_VALUE;
 
-
+	    System.out.println ("Integer Minimim Value = " + myMinIntValue);
+	    System.out.println ("Integer Maximum Value = " + myMaxIntValue);
+	 System.out.println (" Busted MAX value = " + (myMaxIntValue +1));
+	 System.out.println (" Busted MIN value = " + (myMinIntValue -1));
+	}
 	}
 
-}
+
+	
+

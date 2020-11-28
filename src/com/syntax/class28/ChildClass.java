@@ -1,6 +1,6 @@
 package com.syntax.class28;
 
-public class ChildClass implements MyInterface,MyInterface2,MyInterface3 {
+public class ChildClass implements MyInterface,MyInterface2 {
     @Override
     public void printInfo() {
         System.out.println ("My name is Muhammad Fahim and I am a quantum computer engineer" );

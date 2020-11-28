@@ -1,0 +1,23 @@
+Methods in Java block of code that performs certian action.
+Built in methods String.length-> returns the number of characters in a string
+Methods:
+with parameters
+without parameters
+Parameters Vs Arguments?
+Create a method to return the result of adding the numbers.
+
+public double addNumbers(double num1,double,num2) {
+return num1+num2;
+}
+Must have parts in method
+1)return type ( we can return any type primitive or non primitive, void
+2) Name of the method
+3)Parameters/no Parameters//// Benefits of Methods
+1)Reduce code duplication
+2) More Cleaner
+3) Save memory
+4)Increase Readability
+Variables
+local variables
+any variables that is declared inside a method or a blcok of constructor
+called

@@ -1,0 +1,10 @@
+Encapsulation:
+Encapsulation in java is a mechanism for wrapping the data(Variables)
+and code acting on the data (methods) together as a single unit.
+
+classPerson{
+
+private accountBalance;
+private password;
+String security
+}

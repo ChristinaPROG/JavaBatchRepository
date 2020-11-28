@@ -1,0 +1,12 @@
+Interfaces
+Its a mechanism to achive abstraction in Java. We can achieve %100
+Abstraction and multiple inheritance using interfaces.
+We use interface when we know nothing about implementation and we only know
+about functionality.
+1) An interface have all the fields as public static final by default
+and we cant create instance fields why because we cant create an object of interface
+If we try to declare the fields as anything other then public static or final we will get a error.
+They are widely used to store lambdas in java.
+2)An interface can have static method, default method and abstract method
+3)Any class who implements the interface has to provide the implementation for the abstract method or we
+can delare that class as abstract.

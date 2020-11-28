@@ -1,0 +1,58 @@
+Selenium Class Part 1
+What is software testing?
+identify correctness and quality of the application.
+
+How many ways we can actually test?
+Manual
+Automation
+
+When do we go for automation?
+after manual testing passes
+when environment is stable
+analyze our test suite and choose our automation tool
+
+
+What other tools we have for automation
+-Selenium, Cucumber, UFT/QTP, Katalon Studio
+
+Level of testing?
+Unit testing
+System testing
+Integration Test
+Acceptance Test
+
+
+Types of software testing?
+Functional Testing
+Non Functional testing
+Performance Testing
+Security Testing
+
+What is Selenium?
+Selenium is a set of tools which helps us to automate web applications
+is mainly use for functional testing
+
+Selenium Components:
+1.Selenium IDE or Integrated development environment
+2.Selenium RC ---> Remote Control
+3.Selenium WebDriver
+4.Selenium Grid
+
+What is Selenium WebDriver?
+Open source automation tool which allows you to perform action on a web
+application. WebDriver is a interface
+
+Advantages of Selenium WebDriver:
+-Open source
+-Works with multiple browsers and supports cross browser testing
+-Works with multiple programming languages --> Java,Ruby,C#, Python, JS
+--Os independent --> ios, linux , window
+
+Disadvantages Selenium WebDriver;
+Cant test Desktop applications
+No built in reporting
+No Technical Support
+Cant test capchas images
+takes more time to create test cases
+
+
